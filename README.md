@@ -1,8 +1,12 @@
-React Configuration Info Design
+Simple to do system using react and redux.
+
+### Features
+- Create To Do
+- See All/Active/Done Todo
+- Delete/Undo/Done functionality
 
 ### Technology
 - React
-- Next.js
-- Typescript
-- Tailwind CSS
-- Sass
+- JavaScript
+- Bootstrap
+- Redux
